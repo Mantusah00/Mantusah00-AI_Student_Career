@@ -70,6 +70,7 @@ def export_csv():
     out=io.StringIO(); df.to_csv(out,index=False)
     return Response(out.getvalue(),mimetype="text/csv",headers={"Content-Disposition":"attachment; filename=career_survey_results.csv"})
 
-if __name__=="__main__":
-    init_db()
+init_db()
+
+if __name__ == "__main__":
     app.run(debug=True)
