@@ -1,0 +1,15 @@
+STUDENT CAREER INTEREST FIELD-WORK QUESTIONNAIRE
+Scale: 1 Very Low, 2 Low, 3 Moderate, 4 High, 5 Very High.
+1. Interest in programming/coding?
+2. Interest in websites/web apps?
+3. Interest in mobile app development?
+4. Interest in numbers, tables and Excel?
+5. Interest in statistics and patterns?
+6. Interest in AI/ML?
+7. Interest in cybersecurity?
+8. Interest in networks and servers?
+9. Interest in UI/UX design?
+10. Interest in logical/technical problem solving?
+11. Interest in Python?
+12. Interest in databases and SQL?
+Suggested sample: 50–100 students. Explain the purpose and ask consent before collecting responses.
